@@ -1,0 +1,1126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="2" ignored="52" total="79" passed="25">
+  <reporter-output>
+    <line>
+      <![CDATA[Browser window is maximized successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser window is maximized successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser window is maximized successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser window is maximized successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser window is maximized successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser window is maximized successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser window is maximized successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser window is maximized successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser window is maximized successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser window is maximized successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser window is maximized successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser window is maximized successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser window is maximized successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser window is maximized successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser window is maximized successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser window is maximized successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser window is maximized successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser window is maximized successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser window is maximized successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser window is maximized successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser window is maximized successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser window is maximized successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser window is maximized successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser window is maximized successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser window is maximized successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser window is maximized successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser window is maximized successfully]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="399577" started-at="2022-06-20T05:57:10Z" finished-at="2022-06-20T06:03:49Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="399577" started-at="2022-06-20T05:57:10Z" finished-at="2022-06-20T06:03:49Z">
+      <class name="test_Scripts.TestScript20">
+        <test-method status="PASS" signature="openApplication(java.lang.String)[pri:0, instance:test_Scripts.TestScript20@60c6f5b]" name="openApplication" is-config="true" duration-ms="4552" started-at="2022-06-20T11:32:40Z" finished-at="2022-06-20T11:32:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser window is maximized successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method status="PASS" signature="testScript20(java.lang.String, java.lang.String)[pri:0, instance:test_Scripts.TestScript20@60c6f5b]" name="testScript20" duration-ms="12888" started-at="2022-06-20T11:32:45Z" data-provider="testdata" finished-at="2022-06-20T11:32:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kirang12@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[aaaaaa]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testScript20 -->
+        <test-method status="PASS" signature="CloseApp()[pri:0, instance:test_Scripts.TestScript20@60c6f5b]" name="CloseApp" is-config="true" duration-ms="672" started-at="2022-06-20T11:32:58Z" finished-at="2022-06-20T11:32:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseApp -->
+      </class> <!-- test_Scripts.TestScript20 -->
+      <class name="test_Scripts.TestScript21">
+        <test-method status="PASS" signature="openApplication(java.lang.String)[pri:0, instance:test_Scripts.TestScript21@20322d26]" name="openApplication" is-config="true" duration-ms="8972" started-at="2022-06-20T11:29:42Z" finished-at="2022-06-20T11:29:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser window is maximized successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method status="PASS" signature="testScript20(java.lang.String, java.lang.String)[pri:0, instance:test_Scripts.TestScript21@20322d26]" name="testScript20" duration-ms="11289" started-at="2022-06-20T11:29:51Z" data-provider="testdata" finished-at="2022-06-20T11:30:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kirang12@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[aaaaaa]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testScript20 -->
+        <test-method status="PASS" signature="CloseApp()[pri:0, instance:test_Scripts.TestScript21@20322d26]" name="CloseApp" is-config="true" duration-ms="666" started-at="2022-06-20T11:30:02Z" finished-at="2022-06-20T11:30:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseApp -->
+      </class> <!-- test_Scripts.TestScript21 -->
+      <class name="test_Scripts.TestScript22">
+        <test-method status="PASS" signature="openApplication(java.lang.String)[pri:0, instance:test_Scripts.TestScript22@7e0b0338]" name="openApplication" is-config="true" duration-ms="5388" started-at="2022-06-20T11:32:08Z" finished-at="2022-06-20T11:32:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser window is maximized successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method status="PASS" signature="testScript20(java.lang.String, java.lang.String)[pri:0, instance:test_Scripts.TestScript22@7e0b0338]" name="testScript20" duration-ms="8671" started-at="2022-06-20T11:32:13Z" data-provider="testdata" finished-at="2022-06-20T11:32:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kirang12@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[aaaaaa]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testScript20 -->
+        <test-method status="PASS" signature="CloseApp()[pri:0, instance:test_Scripts.TestScript22@7e0b0338]" name="CloseApp" is-config="true" duration-ms="680" started-at="2022-06-20T11:32:22Z" finished-at="2022-06-20T11:32:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseApp -->
+      </class> <!-- test_Scripts.TestScript22 -->
+      <class name="test_Scripts.TestScript23">
+        <test-method status="PASS" signature="openApplication(java.lang.String)[pri:0, instance:test_Scripts.TestScript23@5025a98f]" name="openApplication" is-config="true" duration-ms="9655" started-at="2022-06-20T11:29:25Z" finished-at="2022-06-20T11:29:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser window is maximized successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method status="FAIL" signature="testScript20(java.lang.String, java.lang.String)[pri:0, instance:test_Scripts.TestScript23@5025a98f]" name="testScript20" duration-ms="26" started-at="2022-06-20T11:29:34Z" data-provider="testdata" finished-at="2022-06-20T11:29:34Z">
+          <exception class="org.testng.internal.reflect.MethodMatcherException">
+            <message>
+              <![CDATA[
+Data provider mismatch
+Method: testScript20([Parameter{index=0, type=java.lang.String, declaredAnnotations=[]}, Parameter{index=1, type=java.lang.String, declaredAnnotations=[]}])
+Arguments: [(java.lang.String)M,(java.lang.String)Kiran,(java.lang.String)Gowda,(java.lang.String)Kiranh133262@gmail.com,(java.lang.String)a111111,(java.lang.String)a111111]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.internal.reflect.MethodMatcherException: 
+Data provider mismatch
+Method: testScript20([Parameter{index=0, type=java.lang.String, declaredAnnotations=[]}, Parameter{index=1, type=java.lang.String, declaredAnnotations=[]}])
+Arguments: [(java.lang.String)M,(java.lang.String)Kiran,(java.lang.String)Gowda,(java.lang.String)Kiranh133262@gmail.com,(java.lang.String)a111111,(java.lang.String)a111111]
+	at org.testng.internal.reflect.DataProviderMethodMatcher.getConformingArguments(DataProviderMethodMatcher.java:49)
+	at org.testng.internal.Invoker.injectParameters(Invoker.java:1293)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1187)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.internal.reflect.MethodMatcherException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testScript20 -->
+        <test-method status="PASS" signature="CloseApp()[pri:0, instance:test_Scripts.TestScript23@5025a98f]" name="CloseApp" is-config="true" duration-ms="674" started-at="2022-06-20T11:29:34Z" finished-at="2022-06-20T11:29:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseApp -->
+      </class> <!-- test_Scripts.TestScript23 -->
+      <class name="test_Scripts.TestScript24">
+        <test-method status="PASS" signature="openApplication(java.lang.String)[pri:0, instance:test_Scripts.TestScript24@10bdf5e5]" name="openApplication" is-config="true" duration-ms="5248" started-at="2022-06-20T11:31:44Z" finished-at="2022-06-20T11:31:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser window is maximized successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method status="FAIL" signature="testScript24(java.lang.String, java.lang.String)[pri:0, instance:test_Scripts.TestScript24@10bdf5e5]" name="testScript24" duration-ms="24" started-at="2022-06-20T11:31:50Z" data-provider="testdata" finished-at="2022-06-20T11:31:50Z">
+          <exception class="org.testng.internal.reflect.MethodMatcherException">
+            <message>
+              <![CDATA[
+Data provider mismatch
+Method: testScript24([Parameter{index=0, type=java.lang.String, declaredAnnotations=[]}, Parameter{index=1, type=java.lang.String, declaredAnnotations=[]}])
+Arguments: [(java.lang.String)M,(java.lang.String)Kiran,(java.lang.String)Gowda,(java.lang.String)Kiranh133262@gmail.com,(java.lang.String)a111111,(java.lang.String)a111111]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.internal.reflect.MethodMatcherException: 
+Data provider mismatch
+Method: testScript24([Parameter{index=0, type=java.lang.String, declaredAnnotations=[]}, Parameter{index=1, type=java.lang.String, declaredAnnotations=[]}])
+Arguments: [(java.lang.String)M,(java.lang.String)Kiran,(java.lang.String)Gowda,(java.lang.String)Kiranh133262@gmail.com,(java.lang.String)a111111,(java.lang.String)a111111]
+	at org.testng.internal.reflect.DataProviderMethodMatcher.getConformingArguments(DataProviderMethodMatcher.java:49)
+	at org.testng.internal.Invoker.injectParameters(Invoker.java:1293)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1187)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.internal.reflect.MethodMatcherException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testScript24 -->
+        <test-method status="PASS" signature="CloseApp()[pri:0, instance:test_Scripts.TestScript24@10bdf5e5]" name="CloseApp" is-config="true" duration-ms="684" started-at="2022-06-20T11:31:50Z" finished-at="2022-06-20T11:31:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseApp -->
+      </class> <!-- test_Scripts.TestScript24 -->
+      <class name="test_Scripts.TestScript25">
+        <test-method status="PASS" signature="openApplication(java.lang.String)[pri:0, instance:test_Scripts.TestScript25@dc24521]" name="openApplication" is-config="true" duration-ms="6741" started-at="2022-06-20T11:31:24Z" finished-at="2022-06-20T11:31:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser window is maximized successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method status="PASS" signature="testScript20(java.lang.String, java.lang.String)[pri:0, instance:test_Scripts.TestScript25@dc24521]" name="testScript20" duration-ms="12196" started-at="2022-06-20T11:31:31Z" data-provider="testdata" finished-at="2022-06-20T11:31:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kirang12@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[aaaaaa]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testScript20 -->
+        <test-method status="PASS" signature="CloseApp()[pri:0, instance:test_Scripts.TestScript25@dc24521]" name="CloseApp" is-config="true" duration-ms="1153" started-at="2022-06-20T11:31:43Z" finished-at="2022-06-20T11:31:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseApp -->
+      </class> <!-- test_Scripts.TestScript25 -->
+      <class name="test_Scripts.TestScript26">
+        <test-method status="PASS" signature="openApplication(java.lang.String)[pri:0, instance:test_Scripts.TestScript26@29ca901e]" name="openApplication" is-config="true" duration-ms="8613" started-at="2022-06-20T11:28:02Z" finished-at="2022-06-20T11:28:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser window is maximized successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method status="PASS" signature="testScript13(java.lang.String, java.lang.String)[pri:0, instance:test_Scripts.TestScript26@29ca901e]" name="testScript13" duration-ms="25715" started-at="2022-06-20T11:28:11Z" data-provider="testdata" finished-at="2022-06-20T11:28:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kirang12@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[aaaaaa]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testScript13 -->
+        <test-method status="PASS" signature="CloseApp()[pri:0, instance:test_Scripts.TestScript26@29ca901e]" name="CloseApp" is-config="true" duration-ms="683" started-at="2022-06-20T11:28:37Z" finished-at="2022-06-20T11:28:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseApp -->
+      </class> <!-- test_Scripts.TestScript26 -->
+      <class name="test_Scripts.SampleTest">
+        <test-method status="PASS" signature="openApplication(java.lang.String)[pri:0, instance:test_Scripts.SampleTest@49993335]" name="openApplication" is-config="true" duration-ms="6377" started-at="2022-06-20T11:29:35Z" finished-at="2022-06-20T11:29:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser window is maximized successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method status="PASS" signature="sample()[pri:0, instance:test_Scripts.SampleTest@49993335]" name="sample" duration-ms="1" started-at="2022-06-20T11:29:41Z" finished-at="2022-06-20T11:29:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sample -->
+        <test-method status="PASS" signature="CloseApp()[pri:0, instance:test_Scripts.SampleTest@49993335]" name="CloseApp" is-config="true" duration-ms="650" started-at="2022-06-20T11:29:41Z" finished-at="2022-06-20T11:29:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseApp -->
+      </class> <!-- test_Scripts.SampleTest -->
+      <class name="test_Scripts.TestScript10">
+        <test-method status="PASS" signature="openApplication(java.lang.String)[pri:0, instance:test_Scripts.TestScript10@4bec1f0c]" name="openApplication" is-config="true" duration-ms="8813" started-at="2022-06-20T11:27:46Z" finished-at="2022-06-20T11:27:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser window is maximized successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method status="PASS" signature="testScript10(java.lang.String, java.lang.String)[pri:0, instance:test_Scripts.TestScript10@4bec1f0c]" name="testScript10" duration-ms="6552" started-at="2022-06-20T11:27:55Z" data-provider="testdata" finished-at="2022-06-20T11:28:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kirang12@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[aaaaaa]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testScript10 -->
+        <test-method status="PASS" signature="CloseApp()[pri:0, instance:test_Scripts.TestScript10@4bec1f0c]" name="CloseApp" is-config="true" duration-ms="671" started-at="2022-06-20T11:28:02Z" finished-at="2022-06-20T11:28:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseApp -->
+      </class> <!-- test_Scripts.TestScript10 -->
+      <class name="test_Scripts.TestScript11">
+        <test-method status="PASS" signature="openApplication(java.lang.String)[pri:0, instance:test_Scripts.TestScript11@55d56113]" name="openApplication" is-config="true" duration-ms="9124" started-at="2022-06-20T11:30:55Z" finished-at="2022-06-20T11:31:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser window is maximized successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method status="PASS" signature="testScript10(java.lang.String, java.lang.String)[pri:0, instance:test_Scripts.TestScript11@55d56113]" name="testScript10" duration-ms="7971" started-at="2022-06-20T11:31:04Z" data-provider="testdata" finished-at="2022-06-20T11:31:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kirang12@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[aaaaaa]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testScript10 -->
+        <test-method status="PASS" signature="CloseApp()[pri:0, instance:test_Scripts.TestScript11@55d56113]" name="CloseApp" is-config="true" duration-ms="692" started-at="2022-06-20T11:31:12Z" finished-at="2022-06-20T11:31:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseApp -->
+      </class> <!-- test_Scripts.TestScript11 -->
+      <class name="test_Scripts.TestScript4">
+        <test-method status="PASS" signature="openApplication(java.lang.String)[pri:0, instance:test_Scripts.TestScript4@31dc339b]" name="openApplication" is-config="true" duration-ms="4555" started-at="2022-06-20T11:33:23Z" finished-at="2022-06-20T11:33:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser window is maximized successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method status="PASS" signature="testScript3(java.lang.String, java.lang.String)[pri:0, instance:test_Scripts.TestScript4@31dc339b]" name="testScript3" duration-ms="8629" started-at="2022-06-20T11:33:28Z" data-provider="testdata" finished-at="2022-06-20T11:33:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kirang12@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[aaaaaa]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testScript3 -->
+        <test-method status="PASS" signature="CloseApp()[pri:0, instance:test_Scripts.TestScript4@31dc339b]" name="CloseApp" is-config="true" duration-ms="691" started-at="2022-06-20T11:33:37Z" finished-at="2022-06-20T11:33:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseApp -->
+      </class> <!-- test_Scripts.TestScript4 -->
+      <class name="test_Scripts.TestScript12">
+        <test-method status="PASS" signature="openApplication(java.lang.String)[pri:0, instance:test_Scripts.TestScript12@3159c4b8]" name="openApplication" is-config="true" duration-ms="8446" started-at="2022-06-20T11:27:20Z" finished-at="2022-06-20T11:27:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser window is maximized successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method status="PASS" signature="testScript8(java.lang.String, java.lang.String)[pri:0, instance:test_Scripts.TestScript12@3159c4b8]" name="testScript8" duration-ms="5437" started-at="2022-06-20T11:27:29Z" data-provider="testdata" finished-at="2022-06-20T11:27:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kirang12@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[aaaaaa]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testScript8 -->
+        <test-method status="PASS" signature="CloseApp()[pri:0, instance:test_Scripts.TestScript12@3159c4b8]" name="CloseApp" is-config="true" duration-ms="662" started-at="2022-06-20T11:27:34Z" finished-at="2022-06-20T11:27:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseApp -->
+      </class> <!-- test_Scripts.TestScript12 -->
+      <class name="test_Scripts.TestScript5">
+        <test-method status="PASS" signature="openApplication(java.lang.String)[pri:0, instance:test_Scripts.TestScript5@64bfbc86]" name="openApplication" is-config="true" duration-ms="8345" started-at="2022-06-20T11:30:19Z" finished-at="2022-06-20T11:30:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser window is maximized successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method status="PASS" signature="testScript3(java.lang.String, java.lang.String)[pri:0, instance:test_Scripts.TestScript5@64bfbc86]" name="testScript3" duration-ms="10690" started-at="2022-06-20T11:30:28Z" data-provider="testdata" finished-at="2022-06-20T11:30:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kirang12@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[aaaaaa]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testScript3 -->
+        <test-method status="PASS" signature="CloseApp()[pri:0, instance:test_Scripts.TestScript5@64bfbc86]" name="CloseApp" is-config="true" duration-ms="690" started-at="2022-06-20T11:30:38Z" finished-at="2022-06-20T11:30:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseApp -->
+      </class> <!-- test_Scripts.TestScript5 -->
+      <class name="test_Scripts.TestScript13">
+        <test-method status="PASS" signature="openApplication(java.lang.String)[pri:0, instance:test_Scripts.TestScript13@544fe44c]" name="openApplication" is-config="true" duration-ms="4362" started-at="2022-06-20T11:33:37Z" finished-at="2022-06-20T11:33:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser window is maximized successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method status="PASS" signature="testScript13(java.lang.String, java.lang.String)[pri:0, instance:test_Scripts.TestScript13@544fe44c]" name="testScript13" duration-ms="6776" started-at="2022-06-20T11:33:42Z" data-provider="testdata" finished-at="2022-06-20T11:33:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kirang12@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[aaaaaa]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testScript13 -->
+        <test-method status="PASS" signature="CloseApp()[pri:0, instance:test_Scripts.TestScript13@544fe44c]" name="CloseApp" is-config="true" duration-ms="703" started-at="2022-06-20T11:33:48Z" finished-at="2022-06-20T11:33:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseApp -->
+      </class> <!-- test_Scripts.TestScript13 -->
+      <class name="test_Scripts.TestScript6">
+        <test-method status="PASS" signature="openApplication(java.lang.String)[pri:0, instance:test_Scripts.TestScript6@2038ae61]" name="openApplication" is-config="true" duration-ms="4149" started-at="2022-06-20T11:32:58Z" finished-at="2022-06-20T11:33:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser window is maximized successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method status="PASS" signature="testScript6(java.lang.String, java.lang.String)[pri:0, instance:test_Scripts.TestScript6@2038ae61]" name="testScript6" duration-ms="7595" started-at="2022-06-20T11:33:03Z" data-provider="testdata" finished-at="2022-06-20T11:33:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kirang12@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[aaaaaa]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testScript6 -->
+        <test-method status="PASS" signature="CloseApp()[pri:0, instance:test_Scripts.TestScript6@2038ae61]" name="CloseApp" is-config="true" duration-ms="677" started-at="2022-06-20T11:33:10Z" finished-at="2022-06-20T11:33:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseApp -->
+      </class> <!-- test_Scripts.TestScript6 -->
+      <class name="test_Scripts.TestScript7">
+        <test-method status="PASS" signature="openApplication(java.lang.String)[pri:0, instance:test_Scripts.TestScript7@192b07fd]" name="openApplication" is-config="true" duration-ms="8602" started-at="2022-06-20T11:30:03Z" finished-at="2022-06-20T11:30:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser window is maximized successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method status="PASS" signature="testScript6(java.lang.String, java.lang.String)[pri:0, instance:test_Scripts.TestScript7@192b07fd]" name="testScript6" duration-ms="7044" started-at="2022-06-20T11:30:12Z" data-provider="testdata" finished-at="2022-06-20T11:30:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kirang12@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[aaaaaa]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testScript6 -->
+        <test-method status="PASS" signature="CloseApp()[pri:0, instance:test_Scripts.TestScript7@192b07fd]" name="CloseApp" is-config="true" duration-ms="683" started-at="2022-06-20T11:30:19Z" finished-at="2022-06-20T11:30:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseApp -->
+      </class> <!-- test_Scripts.TestScript7 -->
+      <class name="test_Scripts.TestScript14">
+        <test-method status="PASS" signature="openApplication(java.lang.String)[pri:0, instance:test_Scripts.TestScript14@64bf3bbf]" name="openApplication" is-config="true" duration-ms="8636" started-at="2022-06-20T11:30:39Z" finished-at="2022-06-20T11:30:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser window is maximized successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method status="PASS" signature="testScript13(java.lang.String, java.lang.String)[pri:0, instance:test_Scripts.TestScript14@64bf3bbf]" name="testScript13" duration-ms="6313" started-at="2022-06-20T11:30:48Z" data-provider="testdata" finished-at="2022-06-20T11:30:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kirang12@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[aaaaaa]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testScript13 -->
+        <test-method status="PASS" signature="CloseApp()[pri:0, instance:test_Scripts.TestScript14@64bf3bbf]" name="CloseApp" is-config="true" duration-ms="677" started-at="2022-06-20T11:30:54Z" finished-at="2022-06-20T11:30:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseApp -->
+      </class> <!-- test_Scripts.TestScript14 -->
+      <class name="test_Scripts.TestScript15">
+        <test-method status="PASS" signature="openApplication(java.lang.String)[pri:0, instance:test_Scripts.TestScript15@3c0f93f1]" name="openApplication" is-config="true" duration-ms="4773" started-at="2022-06-20T11:33:11Z" finished-at="2022-06-20T11:33:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser window is maximized successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method status="PASS" signature="testScript13(java.lang.String, java.lang.String)[pri:0, instance:test_Scripts.TestScript15@3c0f93f1]" name="testScript13" duration-ms="7091" started-at="2022-06-20T11:33:16Z" data-provider="testdata" finished-at="2022-06-20T11:33:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kirang12@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[aaaaaa]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testScript13 -->
+        <test-method status="PASS" signature="CloseApp()[pri:0, instance:test_Scripts.TestScript15@3c0f93f1]" name="CloseApp" is-config="true" duration-ms="696" started-at="2022-06-20T11:33:23Z" finished-at="2022-06-20T11:33:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseApp -->
+      </class> <!-- test_Scripts.TestScript15 -->
+      <class name="test_Scripts.TestScript1">
+        <test-method status="PASS" signature="openApplication(java.lang.String)[pri:0, instance:test_Scripts.TestScript1@73846619]" name="openApplication" is-config="true" duration-ms="8753" started-at="2022-06-20T11:27:35Z" finished-at="2022-06-20T11:27:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser window is maximized successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method status="PASS" signature="testScript1(java.lang.String, java.lang.String)[pri:0, instance:test_Scripts.TestScript1@73846619]" name="testScript1" duration-ms="1856" started-at="2022-06-20T11:27:44Z" data-provider="testdata" finished-at="2022-06-20T11:27:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kirang12@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[aaaaaa]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testScript1 -->
+        <test-method status="PASS" signature="CloseApp()[pri:0, instance:test_Scripts.TestScript1@73846619]" name="CloseApp" is-config="true" duration-ms="697" started-at="2022-06-20T11:27:46Z" finished-at="2022-06-20T11:27:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseApp -->
+      </class> <!-- test_Scripts.TestScript1 -->
+      <class name="test_Scripts.TestScript16">
+        <test-method status="PASS" signature="openApplication(java.lang.String)[pri:0, instance:test_Scripts.TestScript16@2d928643]" name="openApplication" is-config="true" duration-ms="8641" started-at="2022-06-20T11:29:04Z" finished-at="2022-06-20T11:29:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser window is maximized successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method status="PASS" signature="testScript3(java.lang.String, java.lang.String)[pri:0, instance:test_Scripts.TestScript16@2d928643]" name="testScript3" duration-ms="11049" started-at="2022-06-20T11:29:13Z" data-provider="testdata" finished-at="2022-06-20T11:29:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kirang12@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[aaaaaa]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testScript3 -->
+        <test-method status="PASS" signature="CloseApp()[pri:0, instance:test_Scripts.TestScript16@2d928643]" name="CloseApp" is-config="true" duration-ms="671" started-at="2022-06-20T11:29:24Z" finished-at="2022-06-20T11:29:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseApp -->
+      </class> <!-- test_Scripts.TestScript16 -->
+      <class name="test_Scripts.TestScript17">
+        <test-method status="PASS" signature="openApplication(java.lang.String)[pri:0, instance:test_Scripts.TestScript17@1e127982]" name="openApplication" is-config="true" duration-ms="4876" started-at="2022-06-20T11:32:34Z" finished-at="2022-06-20T11:32:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser window is maximized successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method status="PASS" signature="testScript10(java.lang.String, java.lang.String)[pri:0, instance:test_Scripts.TestScript17@1e127982]" name="testScript10" duration-ms="1006" started-at="2022-06-20T11:32:39Z" data-provider="testdata" finished-at="2022-06-20T11:32:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[aa21365213]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[aaaaaa]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testScript10 -->
+        <test-method status="PASS" signature="CloseApp()[pri:0, instance:test_Scripts.TestScript17@1e127982]" name="CloseApp" is-config="true" duration-ms="665" started-at="2022-06-20T11:32:40Z" finished-at="2022-06-20T11:32:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseApp -->
+      </class> <!-- test_Scripts.TestScript17 -->
+      <class name="test_Scripts.TestScript2">
+        <test-method status="PASS" signature="openApplication(java.lang.String)[pri:0, instance:test_Scripts.TestScript2@148080bb]" name="openApplication" is-config="true" duration-ms="8286" started-at="2022-06-20T11:31:13Z" finished-at="2022-06-20T11:31:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser window is maximized successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method status="PASS" signature="testScript2(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:test_Scripts.TestScript2@148080bb]" name="testScript2" duration-ms="2679" started-at="2022-06-20T11:31:21Z" data-provider="testdata" finished-at="2022-06-20T11:31:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[M]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Kiran]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Gowda]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Kiranh133262@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[a111111]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[a111111]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testScript2 -->
+        <test-method status="PASS" signature="CloseApp()[pri:0, instance:test_Scripts.TestScript2@148080bb]" name="CloseApp" is-config="true" duration-ms="672" started-at="2022-06-20T11:31:24Z" finished-at="2022-06-20T11:31:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseApp -->
+      </class> <!-- test_Scripts.TestScript2 -->
+      <class name="test_Scripts.TestScript18">
+        <test-method status="PASS" signature="openApplication(java.lang.String)[pri:0, instance:test_Scripts.TestScript18@6adede5]" name="openApplication" is-config="true" duration-ms="9414" started-at="2022-06-20T11:28:53Z" finished-at="2022-06-20T11:29:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser window is maximized successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method status="PASS" signature="testScript18(java.lang.String, java.lang.String)[pri:0, instance:test_Scripts.TestScript18@6adede5]" name="testScript18" duration-ms="1434" started-at="2022-06-20T11:29:02Z" data-provider="testdata" finished-at="2022-06-20T11:29:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kirang12@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[111111a]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testScript18 -->
+        <test-method status="PASS" signature="CloseApp()[pri:0, instance:test_Scripts.TestScript18@6adede5]" name="CloseApp" is-config="true" duration-ms="672" started-at="2022-06-20T11:29:04Z" finished-at="2022-06-20T11:29:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseApp -->
+      </class> <!-- test_Scripts.TestScript18 -->
+      <class name="test_Scripts.TestScript3">
+        <test-method status="PASS" signature="beforeSuit()[pri:0, instance:test_Scripts.TestScript3@4b952a2d]" name="beforeSuit" is-config="true" duration-ms="135" started-at="2022-06-20T11:27:09Z" finished-at="2022-06-20T11:27:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuit -->
+        <test-method status="PASS" signature="openApplication(java.lang.String)[pri:0, instance:test_Scripts.TestScript3@4b952a2d]" name="openApplication" is-config="true" duration-ms="7723" started-at="2022-06-20T11:27:10Z" finished-at="2022-06-20T11:27:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser window is maximized successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method status="PASS" signature="testScript3(java.lang.String, java.lang.String)[pri:0, instance:test_Scripts.TestScript3@4b952a2d]" name="testScript3" duration-ms="1888" started-at="2022-06-20T11:27:18Z" data-provider="testdata" finished-at="2022-06-20T11:27:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kirang12@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[aaaaaa]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testScript3 -->
+        <test-method status="PASS" signature="CloseApp()[pri:0, instance:test_Scripts.TestScript3@4b952a2d]" name="CloseApp" is-config="true" duration-ms="684" started-at="2022-06-20T11:27:20Z" finished-at="2022-06-20T11:27:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseApp -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:test_Scripts.TestScript3@4b952a2d]" name="afterSuite" is-config="true" duration-ms="154" started-at="2022-06-20T11:33:49Z" finished-at="2022-06-20T11:33:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- test_Scripts.TestScript3 -->
+      <class name="test_Scripts.TestScript19">
+        <test-method status="PASS" signature="openApplication(java.lang.String)[pri:0, instance:test_Scripts.TestScript19@6e1ec318]" name="openApplication" is-config="true" duration-ms="8203" started-at="2022-06-20T11:31:50Z" finished-at="2022-06-20T11:31:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser window is maximized successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method status="PASS" signature="testScript8(java.lang.String, java.lang.String)[pri:0, instance:test_Scripts.TestScript19@6e1ec318]" name="testScript8" duration-ms="8306" started-at="2022-06-20T11:31:58Z" data-provider="testdata" finished-at="2022-06-20T11:32:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kirang12@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[aaaaaa]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testScript8 -->
+        <test-method status="PASS" signature="CloseApp()[pri:0, instance:test_Scripts.TestScript19@6e1ec318]" name="CloseApp" is-config="true" duration-ms="714" started-at="2022-06-20T11:32:07Z" finished-at="2022-06-20T11:32:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseApp -->
+      </class> <!-- test_Scripts.TestScript19 -->
+      <class name="test_Scripts.TestScript8">
+        <test-method status="PASS" signature="openApplication(java.lang.String)[pri:0, instance:test_Scripts.TestScript8@617faa95]" name="openApplication" is-config="true" duration-ms="4716" started-at="2022-06-20T11:32:22Z" finished-at="2022-06-20T11:32:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser window is maximized successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method status="PASS" signature="testScript8(java.lang.String, java.lang.String)[pri:0, instance:test_Scripts.TestScript8@617faa95]" name="testScript8" duration-ms="6060" started-at="2022-06-20T11:32:27Z" data-provider="testdata" finished-at="2022-06-20T11:32:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kirang12@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[aaaaaa]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testScript8 -->
+        <test-method status="PASS" signature="CloseApp()[pri:0, instance:test_Scripts.TestScript8@617faa95]" name="CloseApp" is-config="true" duration-ms="659" started-at="2022-06-20T11:32:33Z" finished-at="2022-06-20T11:32:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseApp -->
+      </class> <!-- test_Scripts.TestScript8 -->
+      <class name="test_Scripts.TestScript9">
+        <test-method status="PASS" signature="openApplication(java.lang.String)[pri:0, instance:test_Scripts.TestScript9@5649fd9b]" name="openApplication" is-config="true" duration-ms="8525" started-at="2022-06-20T11:28:37Z" finished-at="2022-06-20T11:28:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser window is maximized successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method status="PASS" signature="testScript9(java.lang.String, java.lang.String)[pri:0, instance:test_Scripts.TestScript9@5649fd9b]" name="testScript9" duration-ms="5973" started-at="2022-06-20T11:28:46Z" data-provider="testdata" finished-at="2022-06-20T11:28:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kirang12@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[aaaaaa]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testScript9 -->
+        <test-method status="PASS" signature="CloseApp()[pri:0, instance:test_Scripts.TestScript9@5649fd9b]" name="CloseApp" is-config="true" duration-ms="695" started-at="2022-06-20T11:28:52Z" finished-at="2022-06-20T11:28:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseApp -->
+      </class> <!-- test_Scripts.TestScript9 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
